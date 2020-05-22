@@ -7,7 +7,7 @@
 ## Profile
 - TqKa(まちゃふぃ)
 - 群馬県
-- webプログラミング
+- プログラミング
 
 # Skills
 - Github Pages
