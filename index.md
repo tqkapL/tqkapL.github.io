@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<img src="e892c4636802c925dbeba097aab87dab.jpg" width="200">
 
-You can use the [editor on GitHub](https://github.com/tqkapL/MachqFiI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About
+プログラミングを使ってたくさんの人たちのサポートをしたいです。  
+これからもプログラミングを上達させて頑張ります！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Profile
+- TqKa(まちゃふぃ)
+- 群馬県
+- webプログラミング
 
-### Markdown
+# Skills
+- Github Pages
+- JavaScript
+- Node.js
+- AJAX
+- HTML
+- CSS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Works
+- [GitHub](https://takapl.github.io/)
+- 作った作品
+  - [掲示板](https://fast-reaches-34858.herokuapp.com/posts)
+  - [予定調節](https://still-dawn-64234.herokuapp.com/)
+  - Forest CIRCLE
+<iframe src="https://www.openprocessing.org/sketch/902224/embed/" width="600" height="450"></iframe>
 
-```markdown
-Syntax highlighted code block
+# Contact
+- [Twitter](https://twitter.com/MachqFixtxt_Zz)
+- xtxt412660@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+<a class="twitter-timeline" data-width="700" data-height="800" data-theme="dark" href="https://twitter.com/MachqFixtxt_Zz?ref_src=twsrc%5Etfw">Tweets by MachqFixtxt_Zz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-- Bulleted
-- List
+# History
+- 2019年 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/) 入学
+- N予備校でプログラミングを勉強中
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tqkapL/MachqFiI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 作業しているときに聞いている*BGM* (再生リスト)
+<iframe width="600" height="450" src="https://www.youtube.com/embed/videoseries?list=PLnaAnWln0K3z8tvdl45HF44jRz8s9l0e7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
