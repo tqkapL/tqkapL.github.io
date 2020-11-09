@@ -18,7 +18,7 @@
 - CSS
 
 # Works
-- [GitHub](https://takapl.github.io/)
+- [GitHub](https://github.com/tqkapL)
 - 作った作品
   - [掲示板](https://fast-reaches-34858.herokuapp.com/posts)
   - [予定調節](https://still-dawn-64234.herokuapp.com/)
