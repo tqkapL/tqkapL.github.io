@@ -29,7 +29,7 @@
 - [Twitter](https://twitter.com/Machqtxt_Zz)
 - xtxt412660@gmail.com
 
-<a class="twitter-timeline" data-width="700" data-height="800" data-theme="dark" href="https://twitter.com/MachqFixtxt_Zz?ref_src=twsrc%5Etfw">Tweets by MachqFixtxt_Zz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="700" data-height="800" data-theme="dark" href="https://twitter.com/Machqtxt_Zz">Tweets by MachqFixtxt_Zz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History
 - 2019年 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/) 入学
