@@ -13,7 +13,6 @@
 - Github Pages
 - JavaScript
 - Node.js
-- AJAX
 - HTML
 - CSS
 
