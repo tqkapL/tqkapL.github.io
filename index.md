@@ -1,11 +1,11 @@
-<img src="e892c4636802c925dbeba097aab87dab.jpg" width="200">
+<img src="https://cdn.discordapp.com/attachments/622710294426288138/775280223201132574/Frisk_profile.png" width="200">
 
 # About
 プログラミングを使ってたくさんの人たちのサポートをしたいです。  
 これからもプログラミングを上達させて頑張ります！
 
 ## Profile
-- TqKa(まちゃふぃ)
+- Texsuto(てきすと)
 - 群馬県
 - プログラミング
 
