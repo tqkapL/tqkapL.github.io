@@ -1,8 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/622710294426288138/775280223201132574/Frisk_profile.png" width="200">
 
 # About
-プログラミングを使ってたくさんの人たちのサポートをしたいです。  
-これからもプログラミングを上達させて頑張ります！
+プログラミングを使っていろいろなものを作りたいです。・・・
 
 ## Profile
 - Texsuto(てきすと)
